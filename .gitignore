@@ -133,3 +133,4 @@ dmypy.json
 /.doit.db.dat
 /.doit.db.dir
 /.idea/
+.doit.db

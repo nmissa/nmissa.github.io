@@ -140,9 +140,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/resume/", "Resume"),
+        ("/publications/", "Publications"),
+        ("/portfolio/", "Portfolio"),
+        ("/media/", "In the Media"),
+        ("/contact/", "Contact"),
     ),
 }
 
@@ -154,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "custom"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -234,10 +236,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    # ("posts/*.rst", "posts", "post.tmpl"),
+    # ("posts/*.md", "posts", "post.tmpl"),
+    # ("posts/*.txt", "posts", "post.tmpl"),
+    # ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
