@@ -40,6 +40,50 @@
         "year": "2021"
     },
     {
+        "ENTRYTYPE": "article",
+        "ID": "blair2021hexachromatic",
+        "author": [
+            "Blair, Steven",
+            "Garcia, Missael",
+            "Davis, Tyler",
+            "Zhu, Zhongmin",
+            "Liang, Zuodong",
+            "Konopka, Christian",
+            "Kauffman, Kevin",
+            "Colanceski, Risto",
+            "Ferati, Imran",
+            "Kondov, Borislav",
+            "others"
+        ],
+        "journal": "Science Translational Medicine",
+        "number": "592",
+        "publisher": "American Association for the Advancement of Science",
+        "title": "Hexachromatic bioinspired camera for image-guided cancer surgery",
+        "volume": "13",
+        "year": "2021"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "blair2020backside",
+        "author": [
+            "Blair, Steven M",
+            "Deliwala, Amit",
+            "Chen, Eric",
+            "Subashbabu, Sailesh",
+            "Li, Anthony",
+            "George, Mebin",
+            "Garcia, Missael",
+            "Cui, Nan",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "Molecular-Guided Surgery: Molecules, Devices, and Applications VI",
+        "organization": "International Society for Optics and Photonics",
+        "pages": "112220A",
+        "title": "A backside-illuminated low-noise multispectral imager for near-infrared fluorescence image-guided surgery (Conference Presentation)",
+        "volume": "11222",
+        "year": "2020"
+    },
+    {
         "ENTRYTYPE": "inproceedings",
         "ID": "brady2020measurement",
         "author": [
@@ -58,6 +102,25 @@
         "year": "2020"
     },
     {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "brady2020comparison",
+        "author": [
+            "Brady, PC",
+            "Garcia, M",
+            "Hernandez, T",
+            "Aalund, M",
+            "Ellerd, R",
+            "Gruev, V",
+            "Cummings, ME"
+        ],
+        "booktitle": "INTEGRATIVE AND COMPARATIVE BIOLOGY",
+        "organization": "OXFORD UNIV PRESS INC JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA",
+        "pages": "E286--E286",
+        "title": "A comparison of two distinct pelagic camouflage strategies in teleosts",
+        "volume": "60",
+        "year": "2020"
+    },
+    {
         "ENTRYTYPE": "misc",
         "ID": "gruev2020multispectral",
         "author": [
@@ -68,6 +131,75 @@
         "publisher": "Google Patents",
         "title": "Multispectral imaging sensors and systems",
         "year": "2020"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "blair2020120",
+        "author": [
+            "Blair, Steven",
+            "Cui, Nan",
+            "Garcia, Missael",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "organization": "IEEE",
+        "pages": "1--5",
+        "title": "A 120 dB Dynamic Range Logarithmic Multispectral Imager for Near-Infrared Fluorescence Image-Guided Surgery",
+        "year": "2020"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "blair20203",
+        "author": [
+            "Blair, Steven",
+            "Deliwala, Amit",
+            "Chen, Eric",
+            "Subashbabu, Sailesh",
+            "Li, Anthony",
+            "George, Mebin",
+            "Garcia, Missael",
+            "Cui, Nan",
+            "Zhu, Zhongmin",
+            "Andonovski, Stefan",
+            "others"
+        ],
+        "booktitle": "2020 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "organization": "IEEE",
+        "pages": "1--5",
+        "title": "A 3.47 e- Read Noise, 81 dB Dynamic Range Backside-Illuminated Multispectral Imager for Near-Infrared Fluorescence Image-Guided Surgery",
+        "year": "2020"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "blair201927",
+        "author": [
+            "Blair, Steven",
+            "Garcia, Missael",
+            "Konopka, Christian",
+            "Dobrucki, Lawrence",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "Label-free Biomedical Imaging and Sensing (LBIS) 2019",
+        "organization": "International Society for Optics and Photonics",
+        "pages": "108900G",
+        "title": "A 27-band snapshot hyperspectral imaging system for label-free tumor detection during image-guided surgery",
+        "volume": "10890",
+        "year": "2019"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "blair2019snapshot",
+        "author": [
+            "Blair, Steven",
+            "Garcia, Missael",
+            "Davis, Tyler",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "2019 IEEE Research and Applications of Photonics in Defense Conference (RAPID)",
+        "organization": "IEEE",
+        "pages": "1--1",
+        "title": "A Snapshot Spectral Imaging Architecture for Compact and Robust Target Detection and Spectral Reconstruction",
+        "year": "2019"
     },
     {
         "ENTRYTYPE": "article",
@@ -99,6 +231,22 @@
     },
     {
         "ENTRYTYPE": "inproceedings",
+        "ID": "gruev2018bio",
+        "author": [
+            "Gruev, Viktor",
+            "Garcia, Missael",
+            "Cui, Nan",
+            "Li, Qinru"
+        ],
+        "booktitle": "Molecular-Guided Surgery: Molecules, Devices, and Applications IV",
+        "organization": "International Society for Optics and Photonics",
+        "pages": "104780D",
+        "title": "Bio-inspired near infrared fluorescence sensors: from the ocean to the operating room (Conference Presentation)",
+        "volume": "10478",
+        "year": "2018"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
         "ID": "garcia2018hexachromatic",
         "author": [
             "Garcia, Missael",
@@ -112,6 +260,22 @@
         "pages": "104780F",
         "title": "Hexachromatic imager for near-infrared fluorescence image-guided surgery (Conference Presentation)",
         "volume": "10478",
+        "year": "2018"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "garcia2018six",
+        "author": [
+            "Garcia, Missael",
+            "Davis, Tyler",
+            "Kauffman, Kevin",
+            "Marinov, Radoslav",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "Optics and the Brain",
+        "organization": "Optical Society of America",
+        "pages": "JTu3A--3",
+        "title": "A Six-Channel Multispectral Imager for Simultaneous In Vivo Imaging of Multiple Near-Infrared Fluorescent Markers",
         "year": "2018"
     },
     {
@@ -155,6 +319,23 @@
         "year": "2018"
     },
     {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "garcia2018biologically",
+        "author": [
+            "Garcia, Missael",
+            "Davis, Tyler",
+            "Marinov, Radoslav",
+            "Blair, Steven",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "Polarization: Measurement, Analysis, and Remote Sensing XIII",
+        "organization": "International Society for Optics and Photonics",
+        "pages": "106550C",
+        "title": "Biologically inspired imaging sensors for multi-spectral and polarization imagery",
+        "volume": "10655",
+        "year": "2018"
+    },
+    {
         "ENTRYTYPE": "article",
         "ID": "garcia2018bioinspired",
         "author": [
@@ -174,6 +355,22 @@
     },
     {
         "ENTRYTYPE": "inproceedings",
+        "ID": "gruev2018bioinspired",
+        "author": [
+            "Gruev, Viktor",
+            "Garcia, Missael",
+            "Powell, Sam",
+            "Cui, Nan",
+            "Davis, Tyler"
+        ],
+        "booktitle": "2018 IEEE Research and Applications of Photonics In Defense Conference (RAPID)",
+        "organization": "IEEE",
+        "pages": "1--1",
+        "title": "Bioinspired Sensors for Underwater Geolocalization",
+        "year": "2018"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
         "ID": "blair2018120",
         "author": [
             "Blair, Steven",
@@ -188,17 +385,36 @@
         "year": "2018"
     },
     {
-        "ENTRYTYPE": "inproceedings",
+        "ENTRYTYPE": "article",
         "ID": "garcia2017optical",
         "author": [
             "Garcia, Missael",
             "Gruev, Viktor"
         ],
-        "booktitle": "Endoscopic Microscopy XII",
-        "organization": "International Society for Optics and Photonics",
-        "pages": "1004008",
-        "title": "Optical characterization and polarization calibration for rigid endoscopes",
-        "volume": "10040",
+        "journal": "Optics express",
+        "number": "14",
+        "pages": "15713--15728",
+        "publisher": "Optical Society of America",
+        "title": "Optical characterization of rigid endoscopes and polarization calibration methods",
+        "volume": "25",
+        "year": "2017"
+    },
+    {
+        "ENTRYTYPE": "article",
+        "ID": "marinov20174",
+        "author": [
+            "Marinov, Radoslav",
+            "Cui, Nan",
+            "Garcia, Missael",
+            "Powell, Samuel B",
+            "Gruev, Viktor"
+        ],
+        "journal": "IEEE Sensors Journal",
+        "number": "9",
+        "pages": "2725--2733",
+        "publisher": "IEEE",
+        "title": "A 4-megapixel cooled CCD division of focal plane polarimeter for celestial imaging",
+        "volume": "17",
         "year": "2017"
     },
     {
@@ -234,6 +450,15 @@
         "year": "2017"
     },
     {
+        "ENTRYTYPE": "article",
+        "ID": "garcia2017bio",
+        "author": [
+            "Garcia, Nimrod Missael"
+        ],
+        "title": "Bio-Inspired Multi-Spectral and Polarization Imaging Sensors for Image-Guided Surgery",
+        "year": "2017"
+    },
+    {
         "ENTRYTYPE": "book",
         "ID": "hernandez2017bio",
         "author": [
@@ -242,6 +467,29 @@
         "publisher": "Washington University in St. Louis",
         "title": "Bio-Inspired Multi-Spectral and Polarization Imaging Sensors for Image-Guided Surgery",
         "year": "2017"
+    },
+    {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "gao2016compact",
+        "author": [
+            "Gao, Shengkui",
+            "Garcia, Missael",
+            "Edmiston, Chris",
+            "York, Timothy",
+            "Marinov, Radoslav",
+            "Mondal, Suman B",
+            "Zhu, Nan",
+            "Sudlow, Gail P",
+            "Akers, Walter J",
+            "Margenthaler, Julie A",
+            "others"
+        ],
+        "booktitle": "Molecular-Guided Surgery: Molecules, Devices, and Applications II",
+        "organization": "International Society for Optics and Photonics",
+        "pages": "96960A",
+        "title": "A compact bio-inspired visible/NIR imager for image-guided surgery (Conference Presentation)",
+        "volume": "9696",
+        "year": "2016"
     },
     {
         "ENTRYTYPE": "inproceedings",
@@ -260,6 +508,22 @@
         "year": "2015"
     },
     {
+        "ENTRYTYPE": "inproceedings",
+        "ID": "garcia2015live",
+        "author": [
+            "Garcia, Missael",
+            "Gao, Shengkui",
+            "Edmiston, Christopher",
+            "York, Timothy",
+            "Gruev, Viktor"
+        ],
+        "booktitle": "2015 IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "organization": "IEEE",
+        "pages": "1911--1911",
+        "title": "Live demonstration: A 1300x 800, 700 mW, 30 fps spectral polarization imager",
+        "year": "2015"
+    },
+    {
         "ENTRYTYPE": "article",
         "ID": "garcia2015surface",
         "author": [
@@ -275,5 +539,28 @@
         "title": "Surface normal reconstruction using circularly polarized light",
         "volume": "23",
         "year": "2015"
+    },
+    {
+        "ENTRYTYPE": "article",
+        "ID": "charanya2014trimodal",
+        "author": [
+            "Charanya, Tauseef",
+            "York, Timothy",
+            "Bloch, Sharon",
+            "Sudlow, Gail",
+            "Liang, Kexian",
+            "Garcia, Missael",
+            "Akers, Walter J",
+            "Rubin, Deborah",
+            "Gruev, Viktor",
+            "Achilefu, Samuel"
+        ],
+        "journal": "Journal of biomedical optics",
+        "number": "12",
+        "pages": "126002",
+        "publisher": "International Society for Optics and Photonics",
+        "title": "Trimodal color-fluorescence-polarization endoscopy aided by a tumor selective molecular probe accurately detects flat lesions in colitis-associated cancer",
+        "volume": "19",
+        "year": "2014"
     }
 ]

@@ -11,13 +11,12 @@ def chunked(file):
             lines += line
 
 with open("files/publications.bibtex") as fii:
-    chunks = chunked(fii)
-    items = []
-    for chunk in chunks:
-        db = btp.loads(next(chunks))
-        entries = list(db.entries_dict.values())[0]
-        entries['author'] = entries["author"].split(' and ')
-        items.append(entries)
+    db = btp.load(fii)
+    print(f"Found {len(db.entries_dict.keys())} bibtex entries")
+    
+items = list(db.entries_dict.values())
+for item in items:
+    item['author'] = item['author'].split(' and ')
 
 items = sorted(items, key = lambda i: i['year'], reverse = True)
 with open("files/publications.json",'w') as foo:
