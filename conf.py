@@ -242,6 +242,7 @@ POSTS = (
     # ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
+    ("pages/publications.*", "", "publications.tmpl"),
     ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.md", "", "page.tmpl"),
     ("pages/*.txt", "", "page.tmpl"),

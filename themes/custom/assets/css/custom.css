@@ -1,0 +1,32 @@
+.publication-header .publication-title{
+    font-size: 1.5em;
+}
+
+.publication-header .publication-type {
+    padding: 0.25em 0.4em;
+    border-radius: 0.25em;
+    font-weight: 700;
+    font-size: 0.75em;
+    background-color: var(--secondary);
+    color: white;
+}
+
+.publication-header .publication-type.inproceedings{
+    background-color: var(--primary);
+}
+
+.publication-header .publication-type.book{
+    background-color: var(--success);
+}
+
+.publication-header .publication-type.article{
+    background-color: var(--info);
+}
+
+.publication-authors .author{
+    font-size: 0.85em;
+}
+
+.publication-details .journal{
+    font-style: italic;
+}

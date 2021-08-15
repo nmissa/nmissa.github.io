@@ -1,0 +1,40 @@
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+{% import 'math_helper.tmpl' as math with context %}
+{% extends 'post.tmpl' %}
+
+{% block content %}
+<article class="post-{{ post.meta('type') }} storypage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <div class="row">
+    <div class="col-lg-9 col-md-12">
+    <header class="text-center">
+        {{ pheader.html_title() }}
+        {{ pheader.html_translations(post) }}
+    </header>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+    {# Put in the Date Items #}
+    
+
+        <div class="years my-2 mx-auto d-flex justify-content-center">
+        {% for x in range(2021, 2014,-1) %}
+            <a class="publication-year mx-2" href='#year-{{x}}'>{{x}}</a>
+        {% endfor %}
+        </div>
+        {% for x in range(2021, 2014,-1) %}
+        <div class="year mb-8" id="year-{{x}}">
+            <H2 class="">{{x}}</H2>
+            <hr>
+            <div class="publications">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</article>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/publications.js"></script>
+{% endblock %}
